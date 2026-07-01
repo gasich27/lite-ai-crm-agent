@@ -39,7 +39,7 @@
 1. Клонируйте репозиторий и перейдите в его папку:
 
 ```powershell
-git clone [<URL_РЕПОЗИТОРИЯ>](https://github.com/gasich27/lite-ai-crm-agent)
+git clone https://github.com/gasich27/lite-ai-crm-agent
 cd ai-gmail-agent
 ```
 
