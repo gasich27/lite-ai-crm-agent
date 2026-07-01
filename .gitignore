@@ -1,0 +1,38 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Local runtime data
+email_agent.db
+email_agent.db-shm
+email_agent.db-wal
+exports/
+*.log
+
+# IDE, OS, and local agent files
+.idea/
+.vscode/
+.agents/
+.codex/
+.DS_Store
+Thumbs.db
